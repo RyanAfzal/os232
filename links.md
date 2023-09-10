@@ -3,7 +3,7 @@ permalink: LINKS/
 ---
 
 # LINKS
-
+* [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg)
 * [Linux commands] (https://youtu.be/CpTfQ-q6MPU?si=8NUVwcHXIonsC8tS) ---
 the video is about linux most used commands.
 the video is interesting because the duration of the video is short but very useful.
