@@ -12,4 +12,6 @@ ZCZC W01 30 L01 SCELE/Discord related
 ZCZC W01 120 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 110 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 190 L05 Quiz related including studying
+ZCZC W01 20 L32 YouTube: watching OS related topics, etc.
 ZCZC W01 480 L09 Weekly Assignments
+ZCZC W01 10 L09 Finishing Weekly Assignments and i think its done now
