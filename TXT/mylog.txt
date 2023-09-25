@@ -33,6 +33,8 @@ ZCZC W03 110 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 5 L41 TXT/mylog.txt related
 ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 10 L03 GitHub related
+ZCZC W03 60 L25 C-language including Make.
+ZCZC W03 5 L03 GitHub related
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 110 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 60 L13 Assignment #03
