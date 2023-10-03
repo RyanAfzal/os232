@@ -38,3 +38,9 @@ ZCZC W03 110 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 60 L25 C-language including Make.
 ZCZC W03 5 L03 GitHub related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 5 L41 TXT/mylog.txt related
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 60 L14 Assignment #04
