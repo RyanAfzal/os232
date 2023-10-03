@@ -40,7 +40,13 @@ ZCZC W03 60 L25 C-language including Make.
 ZCZC W03 5 L03 GitHub related
 ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 5 L41 TXT/mylog.txt related
-ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 40 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 10 L01 SCELE/Discord related
 ZCZC W04 60 L14 Assignment #04
+ZCZC W04 20 L25 C-language including Make.
+ZCZC W04 10 L22 Linux CLI including tar, etc.
+ZCZC W04 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 5 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
