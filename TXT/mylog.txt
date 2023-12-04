@@ -128,3 +128,19 @@ ZCZC W09 20 L41 TXT/mylog.txt related
 ZCZC W09 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W09 60 L05 Quiz related including studying
 ZCZC W09 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 10 L04 Github Pages related
+ZCZC W10 20 L01 SCELE/Discord related
+ZCZC W10 60 L15 Assignment Week 05
+ZCZC W10 60 L05 Quiz related including studying
+ZCZC W10 10 L25 C-language including Make.
+ZCZC W10 10 L22 Linux CLI including tar, etc.
+ZCZC W10 5 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W10 5 L45 TXT/SHA256SUM related
+ZCZC W10 5 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W10 5 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W10 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W10 20 L41 TXT/mylog.txt related
+ZCZC W10 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W10 60 L05 Quiz related including studying
+ZCZC W10 10 L03 GitHub and git related, including commit, push, pull
